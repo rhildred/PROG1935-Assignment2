@@ -1,23 +1,21 @@
-# PROG1935-InclassTask2
+# PROG1935-Assignment 2
+## Recipe Finder
 
-## Final Result
-The final application includes:
-
-- A styled page with a button to fetch user data.
-- A user display section that updates dynamically with each
-button click.
-- Error handling to ensure a smooth user experience.
-
-![final result](READMEImages/inclasstask2.png)
+The Recipe Finder project will allow users to search for recipes, view search results,
+save favorite recipes, and explore recipe details in a dedicated page. It reinforces skills
+related to DOM manipulation, event handling, APIs, JSON, loops, conditionals, arrays,
+and functions.
 
 ## Marking
 
 |Item|Out Of|
 |--|--:|
-|fetching and `console.log` of data|4|
-|styled page|3|
-|update dynamically with button press|3|
-|bonus - error handling|1|
+|consume [mealdb API](https://www.themealdb.com/api.php)|2|
+|home page|2|
+|recipe detail page|2|
+|Navigation Between Pages|2|
+|Data Validation & Error Handling|2|
+|bonus - any 2 of the enhancements listed in the assignment|1|
 |||
 |total|11|
 
