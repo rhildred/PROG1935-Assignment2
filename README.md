@@ -15,7 +15,7 @@ and functions.
 |recipe detail page|2|
 |Navigation Between Pages|2|
 |Data Validation & Error Handling|2|
-|bonus - any 2 of the enhancements listed in the assignment|1|
+|bonus - any 2 of the enhancements listed in the notes for week 6|1|
 |||
 |total|11|
 
